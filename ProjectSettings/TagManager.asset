@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ladder
+  - Background
+  - Player
+  - MainCamera
+  - Enemies
+  - Hazard
+  - Bullet
+  - Exit
+  - Coin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround Tile
+    uniqueID: 2322978213
+    locked: 0
+  - name: Platform Tile
+    uniqueID: 1372652973
+    locked: 0
+  - name: Water Tile
+    uniqueID: 1331753479
+    locked: 0
+  - name: Ladder Tile
+    uniqueID: 52381701
+    locked: 0
+  - name: Hazard Tile
+    uniqueID: 2838625475
+    locked: 0
+  - name: Enemies Tile
+    uniqueID: 67300781
+    locked: 0
+  - name: ' Bullet Tile'
+    uniqueID: 3555160891
+    locked: 0
+  - name: Exit Tile
+    uniqueID: 1409636775
+    locked: 0
+  - name: Coin Tile
+    uniqueID: 994827613
+    locked: 0
+  - name: Player Tile
+    uniqueID: 2525138429
+    locked: 0
